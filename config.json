@@ -1,7 +1,7 @@
 {
   "first_app": "https://sleepy-shelf-64472.herokuapp.com",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "change_calculator": "https://ctchange-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ctmortgage-calculator.herokuapp.com/",
+  "top_spots": "https://cttop-spots.herokuapp.com/",
+  "vstda": "https://ctvstda.herokuapp.com/"
 }
